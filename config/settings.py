@@ -5,10 +5,10 @@
 
 # ── 销帮帮 ──────────────────────────────────
 XBB = {
-    "token":   "a82cd11c02a6025e2edede3aff384ea6",
-    "corpid":  "xbb536ad11596694a85986625fb19236093",
-    "user_id": "1780664738596",
-    "form_id": 9816986,
+    "token":   "",
+    "corpid":  "",
+    "user_id": "",
+    "form_id": ,
     "base_url": "https://appapi.xbongbong.com/pro/v2/api",
     "endpoints": {
         # 客商
@@ -24,9 +24,9 @@ XBB = {
 
 # ── 用友 T+ ─────────────────────────────────
 TPLUS = {
-    "app_key":       "FRC31Oz8",
-    "app_secret":    "F1CBAB6C3AC28B7830216E88B8943BD2",
-    "refresh_token": "d350634cbe774bdbb890b6b6ed7b9999",
+    "app_key":       "",
+    "app_secret":    "",
+    "refresh_token": "",
     # open_token 无需填写，TokenManager 启动时自动通过 refresh_token 获取
     "open_token": "",
     "base_url": "https://openapi.chanjet.com",
