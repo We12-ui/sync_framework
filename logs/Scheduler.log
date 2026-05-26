@@ -1,0 +1,25 @@
+2026-05-25 11:53:40 [INFO] Scheduler — 已注册任务: xbb_to_tplus_partner
+2026-05-25 11:53:40 [INFO] Scheduler — 已注册任务: tplus_to_xbb_partner
+2026-05-25 11:53:40 [INFO] Scheduler — 调度器启动，共 2 个任务，间隔 5s
+2026-05-25 11:58:39 [INFO] Scheduler — 收到停止信号，调度器已退出
+2026-05-25 11:58:46 [INFO] Scheduler — 已注册任务: xbb_to_tplus_partner
+2026-05-25 11:58:46 [INFO] Scheduler — 已注册任务: tplus_to_xbb_partner
+2026-05-25 11:58:46 [INFO] Scheduler — 调度器启动，共 2 个任务，间隔 5s
+2026-05-25 11:59:43 [INFO] Scheduler — 已注册任务: xbb_to_tplus_partner
+2026-05-25 11:59:43 [INFO] Scheduler — 已注册任务: tplus_to_xbb_partner
+2026-05-25 11:59:43 [INFO] Scheduler — 调度器启动，共 2 个任务，间隔 5s
+2026-05-25 12:11:40 [INFO] Scheduler — 已注册任务: xbb_to_tplus_partner
+2026-05-25 12:11:40 [INFO] Scheduler — 已注册任务: tplus_to_xbb_partner
+2026-05-25 12:11:40 [INFO] Scheduler — 调度器启动，共 2 个任务，间隔 5s
+2026-05-25 12:22:40 [INFO] Scheduler — 已注册任务: xbb_to_tplus_partner
+2026-05-25 12:22:40 [INFO] Scheduler — 已注册任务: tplus_to_xbb_partner
+2026-05-25 12:22:40 [INFO] Scheduler — 调度器启动，共 2 个任务，间隔 5s
+2026-05-25 12:29:48 [INFO] Scheduler — 收到停止信号，调度器已退出
+2026-05-25 12:29:58 [INFO] Scheduler — 已注册任务: xbb_to_tplus_partner
+2026-05-25 12:29:58 [INFO] Scheduler — 已注册任务: tplus_to_xbb_partner
+2026-05-25 12:29:58 [INFO] Scheduler — 调度器启动，共 2 个任务，间隔 5s
+2026-05-25 13:29:48 [INFO] Scheduler — 收到停止信号，调度器已退出
+2026-05-25 17:11:54 [INFO] Scheduler — 已注册任务: xbb_to_tplus_partner
+2026-05-25 17:11:54 [INFO] Scheduler — 已注册任务: tplus_to_xbb_partner
+2026-05-25 17:11:54 [INFO] Scheduler — 调度器启动，共 2 个任务，间隔 5s
+2026-05-25 17:12:50 [INFO] Scheduler — 收到停止信号，调度器已退出

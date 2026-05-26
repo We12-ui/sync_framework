@@ -1,0 +1,20 @@
+2026-05-25 12:30:51 [INFO] XbbToTplusPartner — 检测到 1 条新增，触发 T+ 占位数据清理...
+2026-05-25 12:30:55 [INFO] XbbToTplusPartner — T+ 占位数据已清理: 0001
+2026-05-25 12:30:57 [INFO] XbbToTplusPartner — T+ 占位数据已清理: 0002
+2026-05-25 12:30:59 [INFO] XbbToTplusPartner — T+ 占位数据已清理: 0003
+2026-05-25 12:31:00 [INFO] XbbToTplusPartner — T+ 占位数据已清理: 0004
+2026-05-25 12:31:02 [INFO] XbbToTplusPartner — T+ 占位数据已清理: 0005
+2026-05-25 12:31:04 [INFO] XbbToTplusPartner — [ADD] T+ 新增客商 | dataId=91997068 name=test0001 | 265
+2026-05-25 12:31:22 [INFO] XbbToTplusPartner — [UPDATE] T+ 修改客商 | dataId=91997068 name=test0001 | True
+2026-05-25 12:32:08 [INFO] XbbToTplusPartner — [UPDATE] T+ 修改客商 | dataId=91997068 name=我的t+数据修改后的 | True
+2026-05-25 12:32:25 [INFO] XbbToTplusPartner — [DELETE] T+ 删除客商 | dataId=91997068 name=我的t+数据修改后的 | True
+2026-05-25 12:32:58 [INFO] XbbToTplusPartner — 检测到 1 条新增，触发 T+ 占位数据清理...
+2026-05-25 12:32:58 [INFO] XbbToTplusPartner — T+ 占位数据已清理: 0001
+2026-05-25 12:32:59 [INFO] XbbToTplusPartner — T+ 占位数据已清理: 0002
+2026-05-25 12:32:59 [INFO] XbbToTplusPartner — T+ 占位数据已清理: 0003
+2026-05-25 12:32:59 [INFO] XbbToTplusPartner — T+ 占位数据已清理: 0004
+2026-05-25 12:33:00 [INFO] XbbToTplusPartner — T+ 占位数据已清理: 0005
+2026-05-25 12:33:00 [INFO] XbbToTplusPartner — [ADD] T+ 新增客商 | dataId=91997088 name=我的xbb测试数据 | 266
+2026-05-25 12:33:35 [INFO] XbbToTplusPartner — [UPDATE] T+ 修改客商 | dataId=91997088 name=我的xbb测试数据修改 | True
+2026-05-25 12:33:58 [INFO] XbbToTplusPartner — [UPDATE] T+ 修改客商 | dataId=91997088 name=我的xbb测试数据修改 | True
+2026-05-25 12:34:15 [INFO] XbbToTplusPartner — [DELETE] T+ 删除客商 | dataId=91997088 name=我的xbb测试数据修改 | {'code': 'AA_Partner_NotExists', 'message': '该往来单位不存在！', 'data': {'Code': 'AA_Partner_NotExists', 'StatusCode': 400, 'islogerror': '1'}}

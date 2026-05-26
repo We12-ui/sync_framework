@@ -1,0 +1,11 @@
+2026-05-25 12:30:24 [INFO] TplusToXbbPartner — [DELETE] 销帮帮 删除客户 | Code=0001 name=我的T+测试数据python | {'code': 100404, 'msg': '对象不存在或已被删除', 'success': False}
+2026-05-25 12:30:41 [INFO] TplusToXbbPartner — [ADD] 销帮帮 新增客户 | Code=0001 name=test0001 | {'code': 1, 'msg': '操作成功', 'result': {'code': 1, 'dataId': 91997068, 'formDataId': 91997068, 'msg': '提交数据成功，可在列表页查看'}, 'success': True}
+2026-05-25 12:31:09 [INFO] TplusToXbbPartner — [ADD] 销帮帮 新增客户 | Code=91997068 name=test0001 | {'code': 100034, 'msg': '客户名称存在重复值', 'success': False}
+2026-05-25 12:31:10 [INFO] TplusToXbbPartner — [DELETE] 销帮帮 删除客户 | Code=0001 name=test0001 | {'code': 100404, 'msg': '对象不存在或已被删除', 'success': False}
+2026-05-25 12:31:28 [INFO] TplusToXbbPartner — [UPDATE] 销帮帮 修改客户 | Code=91997068 name=test0001 | {'code': 1, 'msg': '操作成功', 'result': {'code': 1, 'dataId': 91997068, 'formDataId': 91997068, 'msg': '提交数据成功，可在列表页查看'}, 'success': True}
+2026-05-25 12:32:01 [INFO] TplusToXbbPartner — [UPDATE] 销帮帮 修改客户 | Code=91997068 name=我的t+数据修改后的 | {'code': 1, 'msg': '操作成功', 'result': {'code': 1, 'dataId': 91997068, 'formDataId': 91997068, 'msg': '提交数据成功，可在列表页查看'}, 'success': True}
+2026-05-25 12:32:31 [INFO] TplusToXbbPartner — [DELETE] 销帮帮 删除客户 | Code=91997068 name=我的t+数据修改后的 | {'code': 100001, 'msg': '表单数据不存在或已删除', 'success': False}
+2026-05-25 12:33:06 [INFO] TplusToXbbPartner — [ADD] 销帮帮 新增客户 | Code=91997088 name=我的xbb测试数据 | {'code': 100034, 'msg': '客户名称存在重复值', 'success': False}
+2026-05-25 12:33:41 [INFO] TplusToXbbPartner — [UPDATE] 销帮帮 修改客户 | Code=91997088 name=我的xbb测试数据修改 | {'code': 1, 'msg': '操作成功', 'result': {'code': 1, 'dataId': 91997088, 'formDataId': 91997088, 'msg': '提交数据成功，可在列表页查看'}, 'success': True}
+2026-05-25 12:34:04 [INFO] TplusToXbbPartner — [UPDATE] 销帮帮 修改客户 | Code=91997088 name=我的xbb测试数据修改 | {'code': 1, 'msg': '操作成功', 'result': {'code': 1, 'dataId': 91997088, 'formDataId': 91997088, 'msg': '提交数据成功，可在列表页查看'}, 'success': True}
+2026-05-25 12:34:10 [INFO] TplusToXbbPartner — [DELETE] 销帮帮 删除客户 | Code=91997088 name=我的xbb测试数据修改 | {'code': 1, 'msg': '操作成功', 'result': {'errorDataMemo': ''}, 'success': True}
